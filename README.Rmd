@@ -16,4 +16,4 @@ The following steps are performed when running the [run_analysis.R] script
 
 The output of the script is a "*csv*" file called "samsung_tidy_data.csv". This file was stored in a wide format, because this is more aproximate to what the project required to do. 
 
-You can find more information about each data frame in the codeBook.Rmd file. 
+You can find more information about each data frame in the codeBook.Rmd file.
