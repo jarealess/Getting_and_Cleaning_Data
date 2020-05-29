@@ -5,7 +5,7 @@ The purpose of this project was to apply what I learned and the ability to go fr
 
 ### Steps and notes
 
-The following steps are performed when running the [run_analysis.R] script 
+The following steps are performed when running the [run_analysis.R](https://github.com/jarealess/Getting_and_Cleaning_Data/blob/master/run_analysis.R) script 
 
 1. Reading the files from the `train` and `test` directories and storing them into R environment. For this project I didn't include the files contained in the `Inertial Signals` directory. Find more information about the read files in the codeBook.Rmd.
 2. The second step was to join each train and test data for each data set. So, I merged the *subject* data, the *X* data and *y* data into three data frames called *subject*, *X* and *y*.
